@@ -1,0 +1,7 @@
+arxiv_id,title,year,growth_rate,initial_pagerank,current_pagerank,temporal_pagerank,citationCount,is_early_stage,history_points,prediction_type
+2310.02457,"The Empty Signifier Problem: Towards Clearer Paradigms for Operationalising ""Alignment"" in Large Language Models",2023,0.9242194719471947,0.0,0.02259128437524264,0.022787705030680155,9,True,0,potential
+2410.20238,A Survey of Large Language Models for Arabic Language and its Dialects,2024,0.9096765676567657,0.0,0.011269641968867728,0.012447184579562533,8,True,0,potential
+2305.14257,Hierarchical Prompting Assists Large Language Model on Web Navigation,2023,0.8865066006600661,0.0,0.013571279833573958,0.013459707640203404,39,True,0,potential
+2306.06371,A Comprehensive Review of State-of-The-Art Methods for Java Code Generation from Natural Language Text,2023,0.8767244224422442,0.0,0.011974672284717724,0.011925710581027963,13,True,0,potential
+2307.12114,A Zero-shot and Few-shot Study of Instruction-Finetuned Large Language Models Applied to Clinical and Biomedical Tasks,2023,0.8735066006600661,0.0,0.011974672284717724,0.011925710581027963,39,True,0,potential
+2311.05741,Efficiently Adapting Pretrained Language Models To New Languages,2023,0.8561155115511552,0.0,0.011269641968867728,0.01082765833261233,26,True,0,potential

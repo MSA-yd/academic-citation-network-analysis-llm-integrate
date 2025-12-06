@@ -1,0 +1,101 @@
+community_id,community_topic,matched_qs_category,similarity_score
+37,"robotic affordances, language grounding, human-robot interaction, instruction following, embodied AI",Computer Science - Natural Language Processing,0.06666666666666667
+38,"language models, zero-shot learning, embodied agents, task planning, knowledge extraction",Computer Science - Natural Language Processing,0.06666666666666667
+39,"large language models, instruction following, data-efficient training, open-domain NLP, model fine-tuning",Computer Science - Natural Language Processing,0.0625
+40,"multimodal large language models, evaluation benchmarks, emergent abilities, image-text understanding, multimodal tasks",Computer Science - Natural Language Processing,0.0625
+41,"large-scale language models, open-source AI, autoregressive transformers, model training on diverse datasets, natural language generation",Computer Science - Natural Language Processing,0.1111111111111111
+42,"code large language models, instruction tuning, code generation, model pre-training, software development AI",Engineering - Software Engineering,0.07142857142857142
+43,"multimodal large language models, GPT-4V, multimodal tasks, large language models, AI model integration",Computer Science - Natural Language Processing,0.07142857142857142
+44,"clinical natural language processing, large language models, few-shot learning, clinical information extraction, domain adaptation",Computer Science - Natural Language Processing,0.125
+45,"personalized robotics, human-robot interaction, large language models, assistive AI, user preference learning",Computer Science - Machine Learning,0.0625
+46,"membership inference attacks, privacy in machine learning, large language models, model security, data leakage detection",Computer Science - Machine Learning,0.05263157894736842
+47,"reasoning in large language models, cognitive systems and dual-process theory, human-level AI, System 1 and System 2 integration, AI interpretability and decision making",Psychology - Cognitive Science,0.043478260869565216
+48,"large language models, model alignment, prompt engineering, security and jailbreaking, AI safety",Computer Science - Natural Language Processing,0.058823529411764705
+49,"prompt engineering, large language models, natural language interfaces, program synthesis, query languages for AI",Computer Science - Natural Language Processing,0.11764705882352941
+50,"evolutionary computation, large language models, artificial general intelligence, optimization algorithms, interdisciplinary AI integration",Computer Science - Artificial Intelligence,0.058823529411764705
+51,"prompt compression, controllability in language models, toxicity reduction, contrastive conditioning, prompt engineering",Engineering - Software Engineering,0.07692307692307693
+52,"diffusion models, language model pre-training, text generation, continuous denoising, large-scale pretrained models",Computer Science - Natural Language Processing,0.058823529411764705
+53,"large reasoning models, chain-of-thought reasoning, efficient inference, multimodal reasoning, scalable AI systems",Computer Science - Information Systems,0.06666666666666667
+54,"medical vision-and-language pre-training, multimodal learning, knowledge integration, medical image analysis, representation learning",Computer Science - Machine Learning,0.06666666666666667
+55,"large-scale pre-trained language models, in-context learning, demonstration generation, auto-regressive language models, prompt engineering",Engineering - Software Engineering,0.07692307692307693
+56,"model compression, quantization, large language models, binarization, efficient neural networks",Computer Science - Natural Language Processing,0.06666666666666667
+57,"large language models, reasoning enhancement, model alignment, artificial general intelligence, cognitive processes",Psychology - Cognitive Science,0.06666666666666667
+58,"natural language to temporal logic translation, large language models, formal specification, temporal logic synthesis, natural language understanding",Computer Science - Natural Language Processing,0.125
+59,"Topics: Mixture-of-Experts models, large language models, expert pruning, model efficiency, scalable neural architectures",Computer Science - Natural Language Processing,0.058823529411764705
+60,"multilingual pretrained language models, African languages NLP, self-active learning, low-resource language modeling, natural language processing",Computer Science - Natural Language Processing,0.1875
+61,"reward inference, language grounding, instruction following, human-computer interaction, contextual language understanding",Computer Science - Natural Language Processing,0.06666666666666667
+62,"multilingual translation, large language models, cross-lingual understanding, model augmentation, open-source NLP",Computer Science - Natural Language Processing,0.0625
+63,"large language models, model quantization, memory optimization, efficient inference, transformer caching mechanisms",Computer Science - Natural Language Processing,0.058823529411764705
+64,"Arabic language models, large language models, instruction tuning, generative AI, natural language processing",Computer Science - Natural Language Processing,0.23076923076923078
+65,"language model training, human feedback, alignment, natural language generation, ethical AI",Computer Science - Natural Language Processing,0.14285714285714285
+66,"large language models, prompt engineering, analogy generation, natural language understanding, pre-trained language models",Computer Science - Natural Language Processing,0.13333333333333333
+67,"factuality assessment, large language models, misinformation detection, natural language generation, AI reliability",Computer Science - Natural Language Processing,0.13333333333333333
+68,"large multimodal models, medical image analysis, ophthalmology AI assistants, instruction-based training, vision-language integration",N/A,0.0
+69,"model compression, vocabulary transfer, language models, efficient NLP, model size optimization",Computer Science - Natural Language Processing,0.06666666666666667
+70,"multilingual safety, large language models, language model benchmarking, cross-lingual robustness, AI ethics",Computer Science - Natural Language Processing,0.0625
+71,"instruction-tuned large language models, zero-shot and few-shot learning, clinical and biomedical NLP, evaluation of LLMs, natural language understanding in healthcare",Computer Science - Natural Language Processing,0.09090909090909091
+72,"hierarchical prompting, large language models, interactive decision making, web navigation, prompt engineering",Engineering - Software Engineering,0.07142857142857142
+73,"large language models, fine-tuning, agent-based interaction, failure integration, tool-augmented language models",Computer Science - Natural Language Processing,0.06666666666666667
+74,"bias measurement, language models, social bias, open-ended text generation, fairness in NLP",Computer Science - Natural Language Processing,0.058823529411764705
+75,"Arabic NLP, large language models, benchmarking datasets, AI evaluation, language-specific model adaptation",Computer Science - Natural Language Processing,0.058823529411764705
+76,"large language models, safety and robustness, adversarial examples, AI ethics, harmful content detection",Computer Science - Natural Language Processing,0.05555555555555555
+77,"multilingual language models, low-resource language adaptation, pretrained model fine-tuning, cross-lingual transfer learning, natural language processing",Computer Science - Natural Language Processing,0.1875
+78,"large language models, metamorphic testing, model quality evaluation, natural language processing, software testing frameworks",Computer Science - Natural Language Processing,0.11764705882352941
+79,"large language models, model evaluation and limitations, pragmatic approaches to NLP, ethical considerations in AI, natural language understanding",Computer Science - Natural Language Processing,0.09523809523809523
+80,"spoken language identification, multilingual speech processing, machine learning for speech, human-computer interaction, Indian languages",Computer Science - Machine Learning,0.11764705882352941
+81,"neuron attribution, interpretability of language models, large language models, model explainability, neural mechanisms",Computer Science - Natural Language Processing,0.0625
+82,"medical AI, pediatric healthcare, large language models, Chinese healthcare applications, intelligent diagnostic systems",Computer Science - Information Systems,0.058823529411764705
+83,"legal large language models, natural language processing in law, domain-specific NLP, long sequence modeling, specialized legal vocabulary",Computer Science - Natural Language Processing,0.16666666666666666
+84,"large audio language models, cross-modal alignment, auditory perception, instruction-following AI, general-purpose audio processing",Computer Science - Natural Language Processing,0.125
+85,"translation formality control, multilingual language models, spoken language translation, style transfer in NLP, low-resource language translation",Computer Science - Natural Language Processing,0.05555555555555555
+86,"multimodal learning, auditory processing, large language models, prompt tuning, speech and sound understanding",Computer Science - Natural Language Processing,0.05555555555555555
+87,"negation understanding, large language models, natural language processing, linguistic benchmarks, model evaluation",Computer Science - Natural Language Processing,0.13333333333333333
+88,"large language models, character-level understanding, word composition, natural language processing, model interpretability",Computer Science - Natural Language Processing,0.13333333333333333
+89,"language model knowledge acquisition, learning dynamics, curriculum learning, hallucination in language models, pre-training analysis",Computer Science - Machine Learning,0.058823529411764705
+90,"mathematical language processing, information retrieval, quantitative reasoning, natural language understanding, abstraction methods",Computer Science - Natural Language Processing,0.13333333333333333
+91,"multimodal reasoning, harmful meme detection, large language models, social media analysis, implicit meaning understanding",Computer Science - Natural Language Processing,0.05263157894736842
+92,"explanatory feedback, large language models, human tutoring, educational technology, interactive learning",Computer Science - Machine Learning,0.06666666666666667
+93,"easy-to-read text generation, accessibility in NLP, cognitive impairment support, large language models, text simplification",Psychology - Cognitive Science,0.0625
+94,"large language models, domain-specific benchmarks, financial NLP, Japanese language processing, model evaluation",Computer Science - Natural Language Processing,0.0625
+95,"constrained neural language generation, deep neural language models, natural language generation challenges, fluency and coherence in text generation, large-scale language datasets",Computer Science - Natural Language Processing,0.1
+96,"bias evolution, gender bias, language models, bias detection, bias mitigation",Computer Science - Natural Language Processing,0.07692307692307693
+97,"large language models, model inconsistency, preferential ranking, bias and hallucination, evaluation metrics",Computer Science - Natural Language Processing,0.058823529411764705
+98,"stance classification, large language models, prompt engineering, fine-tuning, natural language processing",Computer Science - Natural Language Processing,0.23076923076923078
+99,"Topics: adversarial robustness, bias detection, large language models, automated assessment, fairness in AI",Computer Science - Natural Language Processing,0.05555555555555555
+100,"language models, mode collapse detection, authorship attribution, narrative analysis, text generation quality",Computer Science - Natural Language Processing,0.058823529411764705
+101,"multimodal large language models, neuron-level interpretation, visual-language fusion, domain-specific representation, explainable AI",Computer Science - Natural Language Processing,0.058823529411764705
+102,"semantic change detection, grammatical profiles, language models, morphological and syntactic analysis, computational linguistics",Linguistics - Computational Linguistics,0.14285714285714285
+103,"music tagging, zero-shot learning, multimodal attention models, music information retrieval, joint music-language modeling",Computer Science - Information Systems,0.0625
+104,"natural language code generation, program synthesis, code generation from text, Java programming automation, NLP for software development",Computer Science - Natural Language Processing,0.1
+105,"spoken language understanding, end-to-end models, low-resource settings, voice command systems, human-machine interaction",Computer Science - Natural Language Processing,0.058823529411764705
+106,"bias detection, gender representation, Scandinavian language models, fairness in NLP, harmful content analysis",Computer Science - Natural Language Processing,0.05555555555555555
+107,"vision-language models, semantic grounding, multimodal learning, model evaluation, real-world applications",N/A,0.0
+108,"large language models, API security, plugin ecosystems, adversarial attacks, third-party integrations",Computer Science - Natural Language Processing,0.0625
+109,"multi-agent systems, natural language processing, stock market analysis, large language models, financial prediction",Computer Science - Natural Language Processing,0.125
+110,"large language models, self-cognition, model interpretability, AI ethics, exploratory analysis",Computer Science - Natural Language Processing,0.06666666666666667
+111,"interactive language learning, language models, social feedback in AI, trial-and-error learning, human-in-the-loop training",Computer Science - Natural Language Processing,0.0625
+112,"large language models, analogical reasoning, emergent cognitive abilities, natural language understanding, AI interpretability",Computer Science - Natural Language Processing,0.125
+113,"offensive language detection, hate speech recognition, natural language processing, low-resource languages, dataset creation",Computer Science - Natural Language Processing,0.125
+114,"large language models, mental health diagnosis, clinical decision support systems, interpretable AI, constraint logic programming",Computer Science - Natural Language Processing,0.05
+115,"scientific workflows, large language models, ChatGPT, workflow automation, reproducible data analysis",Computer Science - Data Mining,0.06666666666666667
+116,"privacy-preserving models, legal natural language processing, domain adaptation, transformer pre-training, data sharing constraints",Computer Science - Natural Language Processing,0.11764705882352941
+117,"vision-language models, object detection, multimodal learning, deep learning, contextual reasoning",N/A,0.0
+118,"clinical information extraction, low-resource languages, few-shot learning, pre-trained language models, medical NLP",Computer Science - Information Systems,0.0625
+119,"alignment in large language models, socio-political theory, post-structuralism, operationalizing AI ethics, interpretability of LLMs",Computer Science - Natural Language Processing,0.05263157894736842
+120,"large language models, brain-like representations, human language network, cognitive modeling, neural similarity",Psychology - Cognitive Science,0.07142857142857142
+121,"large language models, personality assessment, human-like traits, self-knowledge consistency, AI behavior analysis",Computer Science - Natural Language Processing,0.058823529411764705
+122,"hallucination mitigation, large language models, evaluation methods, factually accurate generation, natural language processing",Computer Science - Natural Language Processing,0.2
+123,"causal reasoning, large language models, benchmark evaluation, causal inference, natural language processing",Computer Science - Natural Language Processing,0.23076923076923078
+124,"large language models, length control, text generation, natural language processing, model optimization",Computer Science - Natural Language Processing,0.13333333333333333
+125,"Arabic language processing, large language models, dialectal variation, natural language understanding, multilingual NLP",Computer Science - Natural Language Processing,0.13333333333333333
+126,"social bias in language models, bias benchmarking, large language models, multilingual bias analysis, fairness in AI",Computer Science - Natural Language Processing,0.0625
+127,"knowledge graphs, class membership evaluation, large language models, knowledge engineering, entity classification",Computer Science - Natural Language Processing,0.0625
+128,"cross-lingual generalization, language variation, performance degradation, large language models, closely-related languages and dialects",Computer Science - Natural Language Processing,0.058823529411764705
+129,"visual word sense disambiguation, large language models, multimodal retrieval, image-text alignment, semantic ambiguity resolution",Computer Science - Natural Language Processing,0.05263157894736842
+130,"large language models, eCommerce product descriptions, natural language generation, search engine optimization, customer engagement",Computer Science - Natural Language Processing,0.11764705882352941
+131,"AIOps, large language models, IT operations automation, AI-driven monitoring, anomaly detection",Computer Science - Natural Language Processing,0.0625
+132,"large language models, model uncertainty, knowledge estimation, confidence calibration, natural language understanding",Computer Science - Natural Language Processing,0.13333333333333333
+133,"speech language models, prompt engineering, speech processing, transfer learning, pre-trained models",Computer Science - Natural Language Processing,0.06666666666666667
+134,"palliative care communication, large language models, patient-provider interaction, clinical conversation evaluation, healthcare AI",Computer Science - Natural Language Processing,0.05555555555555555
+135,"large language models, chatbots in education, internationalization of higher education, digital transformation, AI-powered student support",Computer Science - Natural Language Processing,0.05263157894736842
+136,"large language models, task planning, natural language generation, AI-guided planning, complex task completion",Computer Science - Natural Language Processing,0.14285714285714285
